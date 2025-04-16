@@ -1,0 +1,15 @@
+mcp[cli]
+openai-agents
+dotenv
+openai
+crewai
+crewai_tools
+python-dotenv 
+requests
+sqlalchemy
+dateparser
+pandas
+numpy
+scikit-learn
+uvicorn
+streamlit
